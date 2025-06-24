@@ -2,82 +2,82 @@ return {
     descriptions={
         Back={
             b_abandoned={
-                name="Terk Edilmiş Deste",
+                name="Opuszczony Dick",
                 text={
-                    "Destende {C:attention}resimli{} kart",
-                    "olmadan başla",
+                    "Nikt go {C:attention}kurwa{}",
+                    "nie gra",
                 },
             },
             b_anaglyph={
-                name="Anaglif Deste",
+                name="Anaglif Dick",
                 text={
-                    "{C:attention}Usta Bahis{}'i",
-                    "her yendiğinde",
-                    "{C:attention,T:tag_double}#1#{} kazan",
+                    "{C:attention}Po pokonaniu bossa{}",
+                    "następny tag będziesz widział",
+                    "{C:attention,T:tag_double}#1#{} alkoholicznie",
                 },
             },
             b_black={
-                name="Siyah Deste",
+                name="Czarny Dick",
                 text={
-                    "{C:attention}+#1#{} Joker yuvası",
-                    "Her tur {C:blue}-#2#{} el",
+                    "Kradniesz {C:attention}#1#{} Joker slota od",
+                    "sklepikarza, ale tracisz {C:blue}ręke{}",
                 },
             },
             b_blue={
-                name="Mavi Deste",
+                name="Niebieski Dick",
                 text={
-				    "Her tur {C:blue}+#1#{} el",
+				    "Wyrasta ci {C:blue}ręka{}",
                 },
             },
             b_challenge={
-                name="Mücadele Destesi",
+                name="Dick-Wyzwanie",
                 text={
                     "",
                 },
             },
             b_checkered={
-                name="Damalı Deste",
+                name="Szachowy Dick",
                 text={
-                    "{C:attention}26{C:spades} Maça{} ve",
-                    "{C:attention}26{C:hearts} Kupa{} ile başla",
+                    "Wszystkie karty {C:attention}widzisz{} jak",
+                    "{C:attention}Cyranowski{}",
                 },
             },
             b_erratic={
-                name="Dağınık Deste",
+                name="Erotyczny Dick",
                 text={
-                    "Destendeki tüm {C:attention}sayılı{} ve",
-                    "{C:attention}resimli{} kartlar rastgeledir",
+                    "Ktoś {C:attention}zwibrował{} talią, więc",
+                    "{C:attention}wszystkie{} karty są losowe",
                 },
             },
             b_ghost={
-                name="Hayalet Deste",
+                name="Duchowy Dick",
                 text={
-                    "{C:spectral}Spektral{} kartlar",
-                    "mağazada bulunulabilir,",
-                    "{C:spectral,T:c_hex}Nazar{} kartı ile başla",
+                    "Goofy ahh {C:spectral}niebieskie{} karty",
+                    "mogą pojawić się w sklepie, zaczynasz z",
+                    "{C:spectral,T:c_hex}gejowaczem{}",
                 },
             },
             b_green={
-                name="Yeşil Deste",
+                name="Zielony Dick",
                 text={
-                    "Her tur sonu;",
-                    "kalan {C:blue}el{} başına {C:money}$#1#{s:0.85}",
-                    "kalan {C:red}çıkarma{} başına {C:money}$#2#{s:0.85}",
-                    "{C:attention}Faiz kazanamazsın",
+                    "Dostajesz dodatkowy hajs za;",
+                    "pozostałą {C:blue}ręke{} {C:money}#1#zł{s:0.85}",
+                    "pozostały {C:red}diskard{} {C:money}#2#zł{s:0.85}",
+                    "{C:attention}Nie możesz inwestować",
                 },
             },
             b_magic={
-                name="Büyülü Deste",
+                name="Magiczny Dick",
                 text={
-                    "{C:tarot,T:v_crystal_ball}#1#{} kuponu",
-                    "ve {C:attention}2{} adet {C:tarot,T:c_fool}#2#",
-                    "ile başla",
+                    "Zaczynasz grę z goofy ahh",
+                    "{C:tarot,T:v_crystal_ball}#1#{} i",
+                    "{C:attention}2{} cwelami",
                 },
             },
             b_nebula={
-                name="Nebula Destesi",
+                name="Nebula Dick",
                 text={
-                    "{C:planet,T:v_telescope}#1#{} kuponu ile başla",
+                    "Zaczyansz z goofy ahh Teleskopem",
                     "{C:red}#2#{} kullanılabilir yuvası",
                 },
             },
